@@ -1,2 +1,1 @@
-# Strona
 Super strona kurwo
