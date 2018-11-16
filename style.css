@@ -1,0 +1,22 @@
+body
+{
+	background-color: gray;
+	font-family: Verdana;
+	color: #ffffff;
+}
+a:link 
+{
+    color: blue; 
+    text-decoration: none;
+}
+
+a:visited 
+{
+    color: blue;
+	text-decoration: none;
+}
+a:hover 
+{
+    color: cyan;
+	text-decoration: none;
+}
