@@ -1,0 +1,54 @@
+body
+{
+	background-color: lightgray;
+	font-family: Verdana;
+}
+#container
+{
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+}
+#logo
+{
+	background-color: #303030;
+	color: white;
+	text-align: center;
+	padding: 15px;
+}
+#nav
+{
+	float: left;
+	background-color: #e3c148;
+	width: 120px;
+	min-height: 620px;
+	padding: 10px;
+}
+#content
+{
+	float: left;
+	background-color: white;
+	width: 820px;
+	min-height: 600px;
+	padding: 20px;
+}
+#footer
+{
+	clear: both;
+}
+a:link 
+{
+    color: blue; 
+	text-decoration: none;
+}
+
+a:visited 
+{
+    color: blue;
+	text-decoration: none;
+}
+a:hover 
+{
+    color: purple;
+	text-decoration: none;
+}
